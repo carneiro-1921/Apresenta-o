@@ -1,6 +1,6 @@
 # Identificação
 
-  O meu nome é Rodrigo Carneiro
+  Eu chamo-me Rodrigo Carneiro
 ## Habilitações
 
 Curso Profissional Técnico de Multimédia
